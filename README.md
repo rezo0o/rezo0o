@@ -1,9 +1,10 @@
 # Reza
 ## ML Engineer
 
-👋 Hi, I'm Reza, a Data Scientist passionate about finding the meaning behind the numbers and bringing data stories to life.
+👋 Hi, I'm Reza, an ML Engineer passionate about finding the meaning behind the numbers and bringing data stories to life.
 
 🔭 I specialize in:
+- Data Science
 - Machine Learning
 - Data Analysis
 - Statistical Modeling
